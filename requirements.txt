@@ -1,0 +1,5 @@
+streamlit==1.55.0
+tensorflow==2.13.0
+numpy
+opencv-python
+fpdf
